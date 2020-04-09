@@ -3,3 +3,6 @@ moved local file to stagis through git add commitlearn.txt
 after adding type git commit commitlearn.txt -m"message added about commit" to commit
 
 but to gt the changes in repositry type git push origin master
+
+
+git remote -v to check the name of repositry
